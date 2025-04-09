@@ -42,7 +42,7 @@ jobs:
       - name: 获取 ErfanGSI 工具
         uses: actions/checkout@main
         with:
-          repository: tosasitill/erfanSGSI
+          repository: zbjaaa1/erfanSGSI
           path: ErfanGSIs
 
       - name: 更换 777 权限
